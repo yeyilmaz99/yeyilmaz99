@@ -3,7 +3,8 @@
 
 ### I'm a Student and Developer.
 
-I am a self-taught developer. I am currently developing an E-commerce site and PWA with angular. I am a trilingual person. I am open to all kinds of software development.
+
+<h3 align="center">I am a self-taught developer. I am currently developing an E-commerce site and PWA with angular. I am a trilingual person. I am open to all kinds of programming..</h3>
 
 -  I’m currently working on : [E-CommerceTemplate ][E-CommerceTemplate]!
 -  I’m currently learning Angular
