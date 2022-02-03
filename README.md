@@ -35,12 +35,10 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeyilmaz99&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: http://yeyilmaz.tk/index.html
 [twitter]: https://twitter.com/yeyilmaz99
