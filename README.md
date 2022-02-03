@@ -1,7 +1,7 @@
-### Hi there, I'm Yunus Emre Yılmaz - [website] 👋 
+## Hi there, I'm Yunus Emre Yılmaz - [MyWebsite] 👋 
 
 
-## I'm a Student and Developer.
+### I'm a Student and Developer.
 
 
 
@@ -41,9 +41,12 @@
   <br />
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeyilmaz99&show_icons=true&hide_border=true" />
+  <br />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: http://yeyilmaz.tk/index.html
+[MyWebsite]: http://yeyilmaz.tk/index.html
 [twitter]: https://twitter.com/yeyilmaz99
 [twitch]: https://twitch.tv/malmenk
 [instagram]: https://instagram.com/yeyilmaz99
