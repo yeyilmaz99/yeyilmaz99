@@ -40,20 +40,20 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeyilmaz99&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatayy94&show_icons=true&locale=en&layout=compact" alt="cagatayy94" /></p>
+
+
 
 </details>
 
 <br />
-<br />
 
----
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyilmaz99)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayy94&show_icons=true&locale=en" alt="cagatayy94" /></p>
 
 </details>
 
