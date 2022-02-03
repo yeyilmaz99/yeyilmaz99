@@ -40,22 +40,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagatayy94&show_icons=true&locale=en&layout=compact" alt="cagatayy94" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeyilmaz99&show_icons=true&locale=en&layout=compact" alt="yeyilmaz99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeyilmaz99&show_icons=true&locale=en" alt="yeyilmaz99" /></p>
 
 
 
 </details>
 
-<br />
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagatayy94&show_icons=true&locale=en" alt="cagatayy94" /></p>
-
-</details>
 
 
 
