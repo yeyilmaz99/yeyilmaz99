@@ -41,7 +41,10 @@
   <br />
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yeyilmaz99&show_icons=true&hide_border=true" />
-  <br />
+
+<br />
+<br />
+
 ---
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyilmaz99)](https://github.com/anuraghazra/github-readme-stats)
