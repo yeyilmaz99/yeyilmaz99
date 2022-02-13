@@ -6,7 +6,7 @@
 
 <h4 align="center">I’m a self-taught developer. I’m currently developing an E-commerce site and PWA with angular. I’m a trilingual person (French,English,Turkish). I’m open to all kinds of programming.</h3>
 
--  I’m currently working on : [E-CommerceTemplate ][E-CommerceTemplate]!
+-  I’m currently working on : [E-CommerceTemplate ][E-Commerce Website]!
 -  I’m currently learning Angular
 -  2022 Goals: Learn Backend
 
@@ -55,7 +55,7 @@
 
 
 
-[MyWebsite]: http://yeyilmaz.tk/index.html
+[MyWebsite]: https://www.linkedin.com/in/yeyilmaz/
 [twitter]: https://twitter.com/yeyilmaz99
 [twitch]: https://twitch.tv/malmenk
 [instagram]: https://instagram.com/yeyilmaz99
