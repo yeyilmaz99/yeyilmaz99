@@ -1,4 +1,4 @@
-## Hi there, I'm Yunus Emre Yılmaz - [MyWebsite] 👋 
+## Hi there, I'm Yunus Emre Yılmaz - [Linkedin] 👋 
 
 
 ### I'm a Student and Developer.
@@ -55,7 +55,7 @@
 
 
 
-[MyWebsite]: https://www.linkedin.com/in/yeyilmaz/
+[Linkedin]: https://www.linkedin.com/in/yeyilmaz/
 [twitter]: https://twitter.com/yeyilmaz99
 [twitch]: https://twitch.tv/malmenk
 [instagram]: https://instagram.com/yeyilmaz99
