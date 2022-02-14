@@ -30,19 +30,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="36px" src="./img/vscode.png" />][vscode]
-[<img align="left" alt="HTML5" width="36px" src="./img/html.png"  />][html]
-[<img align="left" alt="CSS" width="36px" src="./img/css.png"  />][css]
-[<img align="left" alt="JavaScript" width="36px"  src="./img/js.png" />][javascript]
-[<img align="left" alt="Node.js" width="36px" src="./img/nodejs.png"  />][nodejs]
-[<img align="left" alt="Angular" width="36px"  src="./img/angular.png" />][angular]
-[<img align="left" alt="TypeScript" width="36px"  src="./img/typescript.png" />][typescript]
+[<img align="left" alt="Visual Studio Code" width="38px" src="./img/vscode.png" />][vscode]
+[<img align="left" alt="HTML5" width="42px" src="./img/html.png"  />][html]
+[<img align="left" alt="CSS" width="42px" src="./img/css.png"  />][css]
+[<img align="left" alt="JavaScript" width="38px"  src="./img/js.png" />][javascript]
+[<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
+[<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
+[<img align="left" alt="TypeScript" width="38px"  src="./img/typescript.png" />][typescript]
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
 [<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
 [<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
-[<img align="left" alt="Photoshop" width="36px" src="./img/photoshop.png" />][photoshop]
-[<img align="left" alt="Lightroom" width="36px" src="./img/lightroom.png" />][lightroom]
+[<img align="left" alt="Photoshop" width="32px" src="./img/photoshop.png" />][photoshop]
+[<img align="left" alt="Lightroom" width="32px" src="./img/lightroom.png" />][lightroom]
 
 <br />
 <br />
