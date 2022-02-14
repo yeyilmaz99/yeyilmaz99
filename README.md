@@ -12,17 +12,17 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Twitch" width="24px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitch" width="24px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Twitch" width="20px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitch" width="20px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Instagram" width="28px" src="./img/instagram-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Instagram" width="28px" src="./img/instagram-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
-[<img align="left" alt="Twitter" width="26px" src="./img/twitter-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitter" width="26px" src="./img/twitter-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Twitter" width="28px" src="./img/twitter-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="28px" src="./img/twitter-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
-[<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
 
 
