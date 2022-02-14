@@ -12,17 +12,17 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Twitch" width="20px" src="./img/twitch-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitch" width="20px" src="./img/twitch-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Twitch" width="25px" src="./img/twitch-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitch" width="25px" src="./img/twitch-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
-[<img align="left" alt="Instagram" width="28px" src="./img/instagram-black.png" />](https://instagram.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="Instagram" width="28px" src="./img/instagram-white.png" />](https://instagram.com/yeyilmaz99#gh-dark-mode-only)
+[<img align="left" alt="Instagram" width="36px" src="./img/instagram-black.png" />](https://instagram.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="Instagram" width="36px" src="./img/instagram-white.png" />](https://instagram.com/yeyilmaz99#gh-dark-mode-only)
 
-[<img align="left" alt="Twitter" width="28px" src="./img/twitter-black.png" />](https://twitter.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="Twitter" width="28px" src="./img/twitter-white.png" />](https://twitter.com/yeyilmaz99#gh-dark-mode-only)
+[<img align="left" alt="Twitter" width="36px" src="./img/twitter-black.png" />](https://twitter.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="36px" src="./img/twitter-white.png" />](https://twitter.com/yeyilmaz99#gh-dark-mode-only)
 
-[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-black.png" />](https://linkedin.com/in/yeyilmaz#gh-light-mode-only)
-[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-white.png" />](https://linkedin.com/in/yeyilmaz#gh-dark-mode-only)
+[<img align="left" alt="Linkedin" width="36px" src="./img/linkedin-black.png" />](https://linkedin.com/in/yeyilmaz#gh-light-mode-only)
+[<img align="left" alt="Linkedin" width="36px" src="./img/linkedin-white.png" />](https://linkedin.com/in/yeyilmaz#gh-dark-mode-only)
 
 
 
@@ -30,19 +30,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="./img/html.png"  />][html]
-[<img align="left" alt="CSS" width="26px" src="./img/css.png"  />][css]
-[<img align="left" alt="JavaScript" width="26px"  src="./img/js.png" />][javascript]
-[<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png"  />][nodejs]
-[<img align="left" alt="Angular" width="32px"  src="./img/angular.png" />][angular]
-[<img align="left" alt="TypeScript" width="26px"  src="./img/typescript.png" />][typescript]
-[<img align="left" alt="Git" width="26px" src="./img/git.png"  />][git]
-[<img align="left" alt="GitHub" width="32px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="32px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
-[<img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap.png"  />][bootstrap]
-[<img align="left" alt="Photoshop" width="26px" src="./img/photoshop.png" />][photoshop]
-[<img align="left" alt="Lightroom" width="26px" src="./img/lightroom.png" />][lightroom]
+[<img align="left" alt="Visual Studio Code" width="36px" src="./img/vscode.png" />][vscode]
+[<img align="left" alt="HTML5" width="36px" src="./img/html.png"  />][html]
+[<img align="left" alt="CSS" width="36px" src="./img/css.png"  />][css]
+[<img align="left" alt="JavaScript" width="36px"  src="./img/js.png" />][javascript]
+[<img align="left" alt="Node.js" width="36px" src="./img/nodejs.png"  />][nodejs]
+[<img align="left" alt="Angular" width="36px"  src="./img/angular.png" />][angular]
+[<img align="left" alt="TypeScript" width="36px"  src="./img/typescript.png" />][typescript]
+[<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
+[<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
+[<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
+[<img align="left" alt="Photoshop" width="36px" src="./img/photoshop.png" />][photoshop]
+[<img align="left" alt="Lightroom" width="36px" src="./img/lightroom.png" />][lightroom]
 
 <br />
 <br />
