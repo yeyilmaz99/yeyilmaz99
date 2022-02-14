@@ -41,8 +41,8 @@
 [<img align="left" alt="GitHub" width="32px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="32px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
 [<img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap.png"  />][bootstrap]
-[<img align="left" alt="Photoshop" width="26px" src="./img/photoshop.png" />](https://www.adobe.com/tr/products/photoshop.html#gh-dark-mode-only)
-[<img align="left" alt="Lightroom" width="26px" src="./img/lightroom.png" />](https://www.adobe.com/tr/products/photoshop-lightroom.html#gh-dark-mode-only)
+[<img align="left" alt="Photoshop" width="26px" src="./img/photoshop.png" />][photoshop]
+[<img align="left" alt="Lightroom" width="26px" src="./img/lightroom.png" />][lightroom]
 
 <br />
 <br />
@@ -82,4 +82,7 @@
 [github]: https://github.com/yeyilmaz99
 [E-CommerceWebsite]: https://github.com/yeyilmaz99/E-Commerce-Website-Angular
 [bootstrap]: https://getbootstrap.com/
+[photoshop]: https://www.adobe.com/tr/products/photoshop.html
+[lightroom]: https://www.adobe.com/tr/products/photoshop-lightroom.html
+
 
