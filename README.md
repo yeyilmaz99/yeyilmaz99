@@ -30,17 +30,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="./img/html.png"  />][html]
+[<img align="left" alt="CSS" width="26px" src="./img/css.png"  />][css]
+[<img align="left" alt="JavaScript" width="26px"  src="./img/js.png" />][javascript]
+[<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png"  />][nodejs]
+[<img align="left" alt="Angular" width="32px"  src="./img/angular.png" />][angular]
+[<img align="left" alt="TypeScript" width="26px"  src="./img/typescript.png" />][typescript]
+[<img align="left" alt="Git" width="26px" src="./img/git.png"  />][git]
 [<img align="left" alt="GitHub" width="32px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
 [<img align="left" alt="GitHub" width="32px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap.png"  />][bootstrap]
+[<img align="left" alt="Photoshop" width="26px" src="./img/photoshop.png" />](https://www.adobe.com/tr/products/photoshop.html#gh-dark-mode-only)
+[<img align="left" alt="Lightroom" width="26px" src="./img/lightroom.png" />](https://www.adobe.com/tr/products/photoshop-lightroom.html#gh-dark-mode-only)
 
 <br />
 <br />
