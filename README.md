@@ -15,32 +15,14 @@
 [<img align="left" alt="Twitch" width="20px" src="./img/twitch-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
 [<img align="left" alt="Twitch" width="20px" src="./img/twitch-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
-[<img align="left" alt="Instagram" width="28px" src="./img/instagram-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Instagram" width="28px" src="./img/instagram-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Instagram" width="28px" src="./img/instagram-black.png" />](https://instagram.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="Instagram" width="28px" src="./img/instagram-white.png" />](https://instagram.com/yeyilmaz99#gh-dark-mode-only)
 
-[<img align="left" alt="Twitter" width="28px" src="./img/twitter-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitter" width="28px" src="./img/twitter-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Twitter" width="28px" src="./img/twitter-black.png" />](https://twitter.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="28px" src="./img/twitter-white.png" />](https://twitter.com/yeyilmaz99#gh-dark-mode-only)
 
-[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
-
-
-
-<!-- [![website](./img/1280px-Twitch_Glitch_Logo_Black.svg.png)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/512px-Twitch_Glitch_Logo_White.svg.png)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
- -->
-
-
-
+[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-black.png" />](https://linkedin.com/in/yeyilmaz#gh-light-mode-only)
+[<img align="left" alt="Linkedin" width="28px" src="./img/linkedin-white.png" />](https://linkedin.com/in/yeyilmaz#gh-dark-mode-only)
 
 
 
@@ -53,10 +35,12 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
+[<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="28px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="28px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 
 <br />
