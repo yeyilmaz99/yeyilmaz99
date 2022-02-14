@@ -10,12 +10,46 @@
 -  I’m currently learning Angular
 -  2022 Goals: Learn Backend
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[<img align="left" alt="Twitch" width="26px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitch" width="26px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+
+[<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+
+
+
+<!-- [![website](./img/1280px-Twitch_Glitch_Logo_Black.svg.png)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/512px-Twitch_Glitch_Logo_White.svg.png)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+ -->
+
+
+
+
+
 
 <br />
 
