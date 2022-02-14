@@ -38,9 +38,8 @@
 [<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][angular]
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="GitHub" width="28px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="28px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="28px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="28px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 
 <br />
