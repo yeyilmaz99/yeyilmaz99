@@ -12,15 +12,8 @@
 
 ### Contact with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-[<img align="left" alt="Twitch" width="26px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitch" width="26px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
+[<img align="left" alt="Twitch" width="24px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
+[<img align="left" alt="Twitch" width="24px" src="./img/512px-Twitch_Glitch_Logo_White.svg.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
 
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
