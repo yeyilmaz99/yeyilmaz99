@@ -7,8 +7,7 @@
 <h4 align="center">I’m a self-taught developer. I’m currently developing an E-commerce site and PWA with angular. I’m a trilingual person (French,English,Turkish). I’m open to all kinds of programming.</h3>
 
 -  I’m currently working on : [E-CommerceWebsite]!
--  I’m currently learning Angular
--  2022 Goals: Learn Backend
+-  I’m currently learning C#
 
 ### Contact with me:
 
