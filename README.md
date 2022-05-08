@@ -39,8 +39,8 @@
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServerDark]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sqldarkmode.png" />][MicrosoftSqlServer]
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
-[<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />](https://github.com/yeyilmaz99#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />][githubdark]
+[<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />][github]
 [<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
 [<img align="left" alt="Photoshop" width="32px" src="./img/photoshop.png" />][photoshop]
 [<img align="left" alt="Lightroom" width="32px" src="./img/lightroom.png" />][lightroom]
@@ -82,7 +82,8 @@
 [angular]: https://angular.io/
 [typescript]: https://www.typescriptlang.org/
 [git]: https://git-scm.com/
-[github]: https://github.com/yeyilmaz99
+[github]: https://github.com/yeyilmaz99#gh-dark-mode-only
+[githubdark]: https://github.com/yeyilmaz99#gh-light-mode-only
 [E-CommerceWebsite]: https://github.com/yeyilmaz99/E-Commerce-Website-Angular
 [bootstrap]: https://getbootstrap.com/
 [photoshop]: https://www.adobe.com/tr/products/photoshop.html
