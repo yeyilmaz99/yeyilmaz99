@@ -30,8 +30,10 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="38px" src="./img/vscode.png" />][vscode]
-[<img align="left" alt="HTML5" width="42px" src="./img/html.png"  />][html]
-[<img align="left" alt="CSS" width="42px" src="./img/css.png"  />][css]
+[<img align="left" alt="HTML5" width="42px" src="./img/htmldark.png"  />][html]
+[<img align="left" alt="HTML5" width="42px" src="./img/html.png"  />][htmldark]
+[<img align="left" alt="CSS" width="42px" src="./img/cssdark.png"  />][css]
+[<img align="left" alt="CSS" width="42px" src="./img/css.png"  />][cssdark]
 [<img align="left" alt="JavaScript" width="38px"  src="./img/js.png" />][javascript]
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
 [<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
@@ -75,8 +77,10 @@
 [instagram]: https://instagram.com/yeyilmaz99
 [linkedin]: https://linkedin.com/in/yeyilmaz
 [vscode]: https://code.visualstudio.com/
-[html]: https://www.w3schools.com/html/
-[css]: https://www.w3schools.com/css/
+[html]: https://www.w3schools.com/html/#gh-dark-mode-only
+[htmldark]: https://www.w3schools.com/html/#gh-light-mode-only
+[css]: https://www.w3schools.com/css/#gh-dark-mode-only
+[cssdark]: https://www.w3schools.com/css/#gh-light-mode-only
 [javascript]: https://www.w3schools.com/js/
 [nodejs]: https://nodejs.org/en/
 [angular]: https://angular.io/
