@@ -36,7 +36,7 @@
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
 [<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
 [<img align="left" alt="TypeScript" width="38px"  src="./img/typescript.png" />][typescript]
-[<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServer](https://github.com/yeyilmaz99#gh-light-mode-only)
+[<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServerDark]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sqldarkmode.png" />][MicrosoftSqlServer]
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
 [<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />](https://github.com/yeyilmaz99#gh-light-mode-only)
@@ -70,6 +70,7 @@
 [Linkedin]: https://www.linkedin.com/in/yeyilmaz/
 [twitter]: https://twitter.com/yeyilmaz99
 [MicrosoftSqlServer]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads
+[MicrosoftSqlServerDark]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-light-mode-only
 [twitch]: https://twitch.tv/malmenk
 [instagram]: https://instagram.com/yeyilmaz99
 [linkedin]: https://linkedin.com/in/yeyilmaz
