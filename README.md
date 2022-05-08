@@ -69,7 +69,7 @@
 
 [Linkedin]: https://www.linkedin.com/in/yeyilmaz/
 [twitter]: https://twitter.com/yeyilmaz99
-[MicrosoftSqlServer]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads
+[MicrosoftSqlServer]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-dark-mode-only
 [MicrosoftSqlServerDark]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-light-mode-only
 [twitch]: https://twitch.tv/malmenk
 [instagram]: https://instagram.com/yeyilmaz99
