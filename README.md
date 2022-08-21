@@ -38,6 +38,8 @@
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
 [<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
 [<img align="left" alt="TypeScript" width="38px"  src="./img/typescript.png" />][typescript]
+[<img align="left" alt="CSharp" width="38px"  src="./img/Csharp_Logo.png" />][CSharp]
+[<img align="left" alt=".NetCore" width="38px"  src="./img/net-core-logo.png" />][.NetCore]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServerDark]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sqldarkmode.png" />][MicrosoftSqlServer]
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
@@ -92,5 +94,6 @@
 [bootstrap]: https://getbootstrap.com/
 [photoshop]: https://www.adobe.com/tr/products/photoshop.html
 [lightroom]: https://www.adobe.com/tr/products/photoshop-lightroom.html
+
 
 
