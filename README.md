@@ -94,6 +94,7 @@
 [bootstrap]: https://getbootstrap.com/
 [photoshop]: https://www.adobe.com/tr/products/photoshop.html
 [lightroom]: https://www.adobe.com/tr/products/photoshop-lightroom.html
-
+[CSharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
+[.NetCore]: https://dotnet.microsoft.com/en-us/download
 
 
