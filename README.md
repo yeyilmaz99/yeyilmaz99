@@ -37,7 +37,7 @@
 [<img align="left" alt="JavaScript" width="38px"  src="./img/js.png" />][javascript]
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
 [<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
-[<img align="left" alt="TypeScript" width="38px" style="padding-bottom:20px;"  src="./img/typescript.png" />][typescript]
+[<img align="left" alt="TypeScript" width="38px" style="margin-bottom:20px;"  src="./img/typescript.png" />][typescript]
 [<img align="left" alt="CSharp" width="48px"  src="./img/Csharp_Logo.png" />][CSharp]
 [<img align="left" alt=".NetCore" width="38px"  src="./img/net-core-logo.png" />][.NetCore]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServerDark]
