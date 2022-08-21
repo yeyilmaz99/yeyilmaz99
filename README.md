@@ -76,7 +76,7 @@
 [MicrosoftSqlServer]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-dark-mode-only
 [MicrosoftSqlServerDark]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-light-mode-only
 [twitch]: https://twitch.tv/malmenk
-[instagram]: https://instagram.com/yeyilmaz99
+[instagram]: https://instagram.com/yeyilmaz.io
 [linkedin]: https://linkedin.com/in/yeyilmaz
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/#gh-dark-mode-only
