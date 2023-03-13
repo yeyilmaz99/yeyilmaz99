@@ -31,6 +31,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="38px" src="./img/vscode.png" />][vscode]
 [<img align="left" alt="Visual Studio" width="35px" src="./img/Visual-Studio-Logo.png" />][VisualStudio]
+[<img align="left" alt="Rider" width="35px" src="./img/rider.png" />][Rider]
 [<img align="left" alt="HTML5" width="42px" src="./img/htmldark.png"  />][html]
 [<img align="left" alt="HTML5" width="42px" src="./img/html.png"  />][htmldark]
 [<img align="left" alt="CSS" width="42px" src="./img/cssdark.png"  />][css]
@@ -96,5 +97,6 @@
 [CSharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [.NetCore]: https://dotnet.microsoft.com/en-us/download
 [VisualStudio]: https://visualstudio.microsoft.com/tr/
+[Rider]: https://www.jetbrains.com/rider/
 
 
