@@ -47,7 +47,6 @@
 [<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />][githubdark]
 [<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />][github]
 [<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
-[<img align="left" alt="Photoshop" width="32px" src="./img/photoshop.png" />][photoshop]
 [<img align="left" alt="Lightroom" width="32px" src="./img/lightroom.png" />][lightroom]
 
 <br />
