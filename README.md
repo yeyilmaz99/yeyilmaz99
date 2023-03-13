@@ -35,6 +35,7 @@
 [<img align="left" alt="HTML5" width="42px" src="./img/htmldark.png"  />][html]
 [<img align="left" alt="HTML5" width="42px" src="./img/html.png"  />][htmldark]
 [<img align="left" alt="CSS" width="42px" src="./img/cssdark.png"  />][css]
+[<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
 [<img align="left" alt="CSS" width="42px" src="./img/css.png"  />][cssdark]
 [<img align="left" alt="JavaScript" width="38px"  src="./img/js.png" />][javascript]
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
@@ -46,7 +47,7 @@
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
 [<img align="left" alt="GitHub" width="36px" src="./img/github-white.png" />][githubdark]
 [<img align="left" alt="GitHub" width="36px" src="./img/github-dark.png" />][github]
-[<img align="left" alt="Bootstrap" width="36px" src="./img/bootstrap.png"  />][bootstrap]
+
 
 <br />
 <br />
