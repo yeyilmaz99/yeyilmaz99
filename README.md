@@ -93,9 +93,6 @@
 [ReCapProject]: https://github.com/yeyilmaz99/ReCapProject
 [ReCapProject-fe]: https://github.com/yeyilmaz99/ReCapProject-fe
 [bootstrap]: https://getbootstrap.com/
-[photoshop]: https://www.adobe.com/tr/products/photoshop.html
-[lightroom]: https://www.adobe.com/tr/products/photoshop-lightroom.html
-[CSharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [.NetCore]: https://dotnet.microsoft.com/en-us/download
 [VisualStudio]: https://visualstudio.microsoft.com/tr/
 [Rider]: https://www.jetbrains.com/rider/
