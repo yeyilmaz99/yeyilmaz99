@@ -11,14 +11,6 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Twitch" width="25px" src="./img/twitch-black.png" />](https://twitch.tv/malmenk#gh-light-mode-only)
-[<img align="left" alt="Twitch" width="25px" src="./img/twitch-white.png" />](https://twitch.tv/malmenk#gh-dark-mode-only)
-
-[<img align="left" alt="Instagram" width="36px" src="./img/instagram-black.png" />](https://instagram.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="Instagram" width="36px" src="./img/instagram-white.png" />](https://instagram.com/yeyilmaz99#gh-dark-mode-only)
-
-[<img align="left" alt="Twitter" width="36px" src="./img/twitter-black.png" />](https://twitter.com/yeyilmaz99#gh-light-mode-only)
-[<img align="left" alt="Twitter" width="36px" src="./img/twitter-white.png" />](https://twitter.com/yeyilmaz99#gh-dark-mode-only)
 
 [<img align="left" alt="Linkedin" width="36px" src="./img/linkedin-black.png" />](https://linkedin.com/in/yeyilmaz#gh-light-mode-only)
 [<img align="left" alt="Linkedin" width="36px" src="./img/linkedin-white.png" />](https://linkedin.com/in/yeyilmaz#gh-dark-mode-only)
