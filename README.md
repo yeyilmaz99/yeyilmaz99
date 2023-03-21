@@ -63,7 +63,7 @@
 
 
 
-[Linkedin]: https://www.linkedin.com/in/yeyilmaz/
+[Linkedin]: https://www.linkedin.com/in/yeyilmaz/ 
 [MicrosoftSqlServer]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-dark-mode-only
 [MicrosoftSqlServerDark]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads#gh-light-mode-only
 [linkedin]: https://linkedin.com/in/yeyilmaz
