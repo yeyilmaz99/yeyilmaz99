@@ -6,7 +6,7 @@
 
 <h4 align="center">I’m a self-taught developer. I’m currently developing an E-commerce site and PWA with angular. I’m a trilingual person (French,English,Turkish). I’m open to all kinds of programming.</h3>
 
--  I’m currently working on : [ReCapProject] & [ReCapProject-fe]!
+-  I’m currently working on : [RentACar] & [RentACar-feV2]!
 -  I’m currently learning C#
 
 ### Contact with me:
@@ -79,8 +79,8 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/yeyilmaz99#gh-dark-mode-only
 [githubdark]: https://github.com/yeyilmaz99#gh-light-mode-only
-[ReCapProject]: https://github.com/yeyilmaz99/ReCapProject
-[ReCapProject-fe]: https://github.com/yeyilmaz99/ReCapProject-fe
+[RentACar]: https://github.com/yeyilmaz99/RentACar
+[RentACar-feV2]: https://github.com/yeyilmaz99/RentACar-feV2
 [bootstrap]: https://getbootstrap.com/
 [.NetCore]: https://dotnet.microsoft.com/en-us/download
 [VisualStudio]: https://visualstudio.microsoft.com/tr/
