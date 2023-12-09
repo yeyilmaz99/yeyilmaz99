@@ -1,7 +1,7 @@
 ## Hi there, I'm Yunus Emre Yılmaz - [Linkedin] 👋 
 
 
-### I'm a Student and Developer.
+### I'm a Self taught Developer.
 
 
 <h4 align="center">I’m a self-taught developer. I’m currently developing an E-commerce site and PWA with angular. I’m a trilingual person (French,English,Turkish). I’m open to all kinds of programming.</h3>
