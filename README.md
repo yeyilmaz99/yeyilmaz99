@@ -33,6 +33,8 @@
 [<img align="left" alt="Node.js" width="38px" src="./img/nodejs.png"  />][nodejs]
 [<img align="left" alt="Angular" width="38px"  src="./img/angular.png" />][angular]
 [<img align="left" alt=".NetCore" width="38px"  src="./img/net-core-logo.png" />][.NetCore]
+[<img align="left" alt="ASP.Net" width="38px"  src="./img/aspnet_logo.png" />][ASP.Net]
+[<img align="left" alt="ASP.Net" width="38px"  src="./img/aspnet_logo_white.png" />][ASP.Netdark]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sql.png" />][MicrosoftSqlServerDark]
 [<img align="left" alt="Microsoft Sql Server" width="38px"  src="./img/sqldarkmode.png" />][MicrosoftSqlServer]
 [<img align="left" alt="Git" width="36px" src="./img/git.png"  />][git]
