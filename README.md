@@ -86,5 +86,6 @@
 [.NetCore]: https://dotnet.microsoft.com/en-us/download
 [VisualStudio]: https://visualstudio.microsoft.com/tr/
 [Rider]: https://www.jetbrains.com/rider/
-
+[ASP.Net]: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0#gh-dark-mode-only
+[ASP.Netdark]: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0#gh-light-mode-only
 
